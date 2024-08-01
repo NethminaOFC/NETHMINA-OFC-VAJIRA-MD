@@ -39,11 +39,50 @@ ANTI_LINK: process.env.ANTI_LINK || true  ,
 BOT_DETECT: process.env.BOT_DETECT === undefined ? 'true' : process.env.BOT_DETECT,    
 ANTI_BOT: process.env.ANTI_BOT || true  ,
 ANTI_CALL: process.env.ANTI_CALL || false  ,
-ALIVE: process.env.ALIVE || `default`,     
-AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || false  ,    
-AUTO_VOICE:  process.env.AUTO_VOICE  || false  ,
-AUTO_STICKER: process.env.AUTO_STICKER || false  ,
+ALIVE: process.env.ALIVE || `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓* 
+
+*Hᴇʟʟᴏ....* @name👋
+*I'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♂💗*
+
+@gname @members Number of Members
+
+*⏰ Now time is* @time
+*📅 Date :* @date
+
+*🟢 I am online still* @uptime
+*🔄 Response Delay* : @ping Ms
+*💻 Host* : @host
+*🪢 Version* : @version
+
+*☫ Work Mode* : @mode
+*☫ Work Type* : @worktype
+
+┌───────────────────────
+
+*CONTACT NO* - https://wa.me/+94776369728?text=Hi
+
+*GROUP LINK* - https://chat.whatsapp.com/FUGjjEbLPQp7KHL5jAUJb8
+
+ 🔥  *Ｆᴏʀ ＳᴛΔᵀᴜs Vɪᴇᴡs* ° 🔥
+┌───────────────────────
+├ 🍓 *Name* :-  *_BHASHITHA NETHMINA_* 
+├ 🍓 *Nick Name* :-  *_NETHMINA OFC_*  
+├ 🍓 *Age* :-  *_17  YEARS OLD_*
+├ 🍓 *Live in* :- *_GALLE_*
+├ 🍓 *Contact* :- 94776369728
+└───────────────────────
+
+*🗓 Type [.menu] for my command list.*
+
+*🛜 𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝐁𝐘 𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘*
+
+
+> ♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
+> ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ    ˢʰᵃʳᵉ`,     
+AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || true  ,    
+AUTO_VOICE:  process.env.AUTO_VOICE  || true  ,
+AUTO_STICKER: process.env.AUTO_STICKER || true  ,
 WELCOME:  process.env.WELCOME  || false ,
-ANTI_DELETE : process.env.ANTI_DELETE || false ,
+ANTI_DELETE : process.env.ANTI_DELETE || true ,
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO    
 };
